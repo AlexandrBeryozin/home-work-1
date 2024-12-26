@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Archangelsk Regular";
+  src: url("../fonts/Archangelsk-Regular.ttf") format("truetype");
+}
+
+.title-main {
+  text-align: center;
+  font-family: "Archangelsk Regular";
+}
+.paragraph-main {
+  text-align: center;
+  font-family: "Archangelsk Regular";
+  margin-bottom: 100px;
+}
+.left-image {
+  display: inline-block;
+}
+.right-image {
+  display: inline-block;
+}
+.image {
+  max-width: 600px;
+  max-height: 350px;
+}
+.images-wrapper {
+  margin-bottom: 100px;
+  text-align: center;
+}
+.symbol-wrapper {
+  display: flex;
+  justify-content: center;
+}
